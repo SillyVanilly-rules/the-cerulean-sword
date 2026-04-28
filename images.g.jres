@@ -1,6 +1,11 @@
 {
+    "image2": {
+        "data": "hwQMABAAAAAAAAAAIiINAMDMDAAiIg0AzMzd3SIi9P/M3N3dIiL0/8wd2d0iIvT/3P3f3i0i9ADc3d3eLSL0AMz9394tIvT/zBzZ3SIi9P/M3N3dIiL0/wAAAAAiIg0AAAAAACIiDQA=",
+        "mimeType": "image/x-mkcd-f4",
+        "displayName": "John"
+    },
     "image1": {
-        "data": "hwQQABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAODM7mDWAAAAzO7ebdYAAADuntFtxu4A4Oz9323G7gDg7t3d3VYOAODe3d3dVg4A4N79323G7gAA7p3RbcbuAADu7t1t1gAAAODu7mDWAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+        "data": "hwQKAA0AAAAAzuwOZg0AAMDs7t1mDQAA4O4Z3WbsDgDO3v/dZuwOAO7e3d1t5QAA7t3d3W3lAADu3f/dZuwOAODeGd1m7A4A4O7e3WYNAAAA7u4OZg0AAA==",
         "mimeType": "image/x-mkcd-f4",
         "displayName": "hero"
     },
